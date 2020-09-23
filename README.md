@@ -14,15 +14,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# introduction
+
+- 😄 zh-CN / VSCode & JetBrains / full stack explorer
+- 🌱 I’m currently learning node
+- 💬 Ask me about python -> flask / spider
+- ⚡ Fun fact: WOW / Falcom / Civilization VI
+
 # stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zxjlm&show_icons=true&theme=merko)
 
 # languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxjlm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-# introduction
 
-- zh-CN / VSCode & JetBrains / full stack explorer
-- 🌱 I’m currently learning node
-- 💬 Ask me about python -> flask / spider
-- ⚡ Fun fact: WOW / Falcom / Civilization VI
