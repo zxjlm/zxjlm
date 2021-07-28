@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 😄 zh-CN / VSCode & JetBrains / full stack explorer
 - 🌱 I’m currently learning node
 - 💬 Ask me about python -> flask / spider
-- ⚡ Fun fact: WOW / Falcom / Civilization VI
+- ⚡ Fun fact: Falcom / Civilization VI / FGO / GenShin / WOW
 
 # stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zxjlm&show_icons=true&theme=merko)
